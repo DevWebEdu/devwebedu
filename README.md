@@ -33,3 +33,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwebedu&theme=tokyonight) 
+![Github Stars](https://github-readme-stats.vercel.app/api?username=devwebedu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+
+Credits: [Eduardo Luna Meza](https://github.com/devwebedu)
+
+Last Edited on: 12/11/2024
