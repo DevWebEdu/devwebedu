@@ -54,12 +54,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 📊 &nbsp;GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevWebEdu&show_icons=true&theme=tokyonight&hide_border=true" alt="Eduardo's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevWebEdu&theme=tokyonight&hide_border=true" alt="Eduardo's GitHub streak" height="165"/>
-</p>
 
 ### 🔗 &nbsp;Connect with me
 
